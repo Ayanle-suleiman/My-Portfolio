@@ -1,2 +1,2 @@
 # My-Portfolio
-website that published my portfolio
+website that I published my portfolio
